@@ -12,3 +12,5 @@ Just an index-page with the blog-loop.
 http://cl.ly/image/1k0M0t322j16
 
 ^ Screenshot of what Sandbox looks like before you download.
+
+(Sandbox is mainly a throwaway theme, that I didn't want to use. So Here! Have it! :) )
