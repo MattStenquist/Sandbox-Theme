@@ -25,9 +25,9 @@
 <body <?php body_class();?>>
 	<div id="wrapper">
 		<header>
-			<img src="/images/logo.png" alt="logo">
+			<a href="#"><img src="/images/logo.png" alt="logo"></a>
 			<nav id="menu" role="navigation">
-				<a href="#"><?php wp_nav_menu(); ?></a>		
+				<?php wp_nav_menu(); ?>		
 			</nav>
 			
 			<nav id="search" role="navigation"><!-- BUILD YOUR SEARCH IN HERE --></nav>
